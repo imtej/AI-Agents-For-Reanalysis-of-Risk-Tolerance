@@ -1,0 +1,35 @@
+{
+    "risk_tolerance": "Moderate to High",
+    "financial_info": {
+        "income": 1000000,
+        "investments": [
+            "Real estate"
+        ],
+        "debt": 100000,
+        "insurance_coverage": 50000,
+        "tax_category": "5-15 lakhs"
+    },
+    "retirement_plans": {
+        "goals": [
+            "Buy a new house at age 35"
+        ],
+        "lifestyle": [
+            "Buy a new house"
+        ]
+    },
+    "financial_goals": {
+        "short_term_goals": [
+            "Buy a new house within 10 years"
+        ],
+        "long_term_goals": [
+            "Achieve a balance between long-term returns and short-term losses"
+        ]
+    },
+    "recommendations": {
+        "reduce_debt": true,
+        "increase_savings_rate": true,
+        "diversify_investments": true,
+        "prioritize_long_term_security": true,
+        "consult_financial_advisor": true
+    }
+}
