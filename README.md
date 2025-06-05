@@ -1,6 +1,6 @@
  
 
-# Risk Tolerance Reanalysis Using AI Agentic Workflow (AI-Agents-For-Reanalysis-of-Risk-Tolerance)
+# Risk Tolerance Reanalysis Using AI Agentic Workflow (AI-Agents-For-Reanalysis-of-Risk-Tolerance) 
 
 ## Overview
 This project aims to reevaluate user risk tolerance based on provided JSON data. It involves analyzing relevant financial information and generating a new JSON file with updated risk tolerance values. The project employs Microsoft Autogen and Llama3.1 8b from the Groq API for a comprehensive analysis.
